@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-weight: bold;
+}
+.container{
+    background-color: violet;
+    height: 100vh;
+    width: auto;
+}
+
+.bir{
+    float: left;
+    width: 10vw;
+    height: 16vh;
+    background-color: grey;
+    margin-right: 10px;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.birinci-1{
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+.birinci-2{
+    float: right;
+    margin: 10px;
+    text-align: center;
+}
+
+.ikinci-1{
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+.ikinci-2{
+    float: right;
+    margin: 10px;
+    text-align: center;
+}
+
+.üçüncü-1{
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+.üçüncü-2{
+    float: right;
+    margin: 10px;
+    text-align: center;
+}
+
+.dördüncü-1{
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+.dördüncü-2{
+    float: right;
+    margin: 10px;
+    text-align: center;
+}
+
+.beşinci-1{
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+
+.beşinci-2{
+    float: right;
+    margin: 10px;
+    text-align: center;
+}
